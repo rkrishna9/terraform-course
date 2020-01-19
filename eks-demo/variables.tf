@@ -1,4 +1,4 @@
-variable "aceess-Key" {
+variable "access_Key" {
   description = "provide access-key"
   type        = string
 }
